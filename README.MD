@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:4285F4&height=200&section=header&text=Hi%2C%20I%27m%20Fannandya%20Sutan&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%26%20Mobile%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:4285F4&height=200&section=header&text=Hi%2C%20I%27m%20Fannandya%20Sutan&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20and%20Mobile%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="header" />
 
 <div align="center">
 
@@ -68,6 +68,7 @@ Undergraduate Student at Universitas Muhammadiyah Yogyakarta · Focused on Backe
 ### 📊 GitHub Stats
 
 <div align="center">
+
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Fannandya&theme=tokyonight&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
