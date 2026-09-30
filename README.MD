@@ -69,10 +69,7 @@ Undergraduate Student at Universitas Muhammadiyah Yogyakarta · Focused on Backe
 
 <div align="center">
 
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Fannandya&theme=tokyonight&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fannandya&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fannandya&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&locale=en" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fannandya&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="top-langs" />
 
 <img src="https://streak-stats.demolab.com?user=Fannandya&theme=tokyonight&hide_border=true" alt="streak" />
