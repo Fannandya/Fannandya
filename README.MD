@@ -12,7 +12,7 @@ Undergraduate Student at Universitas Muhammadiyah Yogyakarta · Focused on Backe
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm an undergraduate student at **Universitas Muhammadiyah Yogyakarta**, currently exploring the world of **backend development and software architecture**. I'm especially interested in **backend architecture, system design, and building scalable applications**, and I'm always trying to understand not just how something works, but why it works that way.
 
@@ -23,7 +23,7 @@ One thing about me: once something catches my curiosity, I can spend hours figur
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me 🤝
 
 <p align="left">
   <a href="https://github.com/Fannandya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
@@ -34,7 +34,7 @@ One thing about me: once something catches my curiosity, I can spend hours figur
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 **Languages:**
 <p align="left">
@@ -66,7 +66,7 @@ One thing about me: once something catches my curiosity, I can spend hours figur
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
