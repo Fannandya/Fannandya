@@ -14,11 +14,12 @@ Undergraduate Student at Universitas Muhammadiyah Yogyakarta · Focused on Backe
 
 ### 🚀 About Me
 
-- 🔭 Undergraduate Student at **Universitas Muhammadiyah Yogyakarta**
-- 🌱 Currently deepening my knowledge of **Backend Architecture, System Design & Scalable Applications**
-- 👯 Open to collaborate on **open-source projects and full-stack applications**
-- 💬 Ask me about **Web Development, REST APIs, JavaScript, and Backend Development**
-- ⚡ Fun fact: **I can spend hours learning something just because I want to know how it works**
+I'm an undergraduate student at **Universitas Muhammadiyah Yogyakarta**, currently exploring the world of **backend development and software architecture**. I'm especially interested in **backend architecture, system design, and building scalable applications**, and I'm always trying to understand not just how something works, but why it works that way.
+
+I'm open to collaborating on **open-source projects and full-stack applications**, particularly projects that give me an opportunity to learn and build something useful. If you're into **web development, REST APIs, JavaScript, or backend development**, we'll probably have something to talk about.
+
+One thing about me: once something catches my curiosity, I can spend hours figuring out how it works behind the scenes. Sometimes that's productive. Sometimes it's 2 AM and I'm still reading documentation.
+
 
 ---
 
